@@ -1,8 +1,9 @@
 
 # GeoFlow
 
-*This entire description was written by ChatGPT.*
-*I don't have the time. Code by @oyoops*
+*This entire description was written by ChatGPT.*  
+*I don't have the time.*  
+*Code by @oyoops*
 
 ## Shapefile Streamer & Visualizer
 
