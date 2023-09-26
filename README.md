@@ -2,8 +2,7 @@
 # GeoFlow
 
 **NOTE: This entire description was written by `ChatGPT`.**
-
-*Code by @oyoops*
+Code by `@oyoops`
 
 ## Shapefile Streamer & Visualizer
 
