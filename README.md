@@ -3,7 +3,7 @@
 
 *GeoFlow* seamlessly bridges the gap between vast shapefile datasets and PostgreSQL databases, empowering users with the ability to visualize, transform, and manage geospatial data with unparalleled ease.
 
-![GeoFlow Banner](banner.png)
+*This entire description was written by ChatGPT. I don't have the time.*
 
 ## 🚀 Highlights
 
