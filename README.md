@@ -1,10 +1,10 @@
 
 # GeoFlow
 
-**NOTE: This entire description was written by `ChatGPT`.**
-Code by `@oyoops`
+**NOTE: This entire description was written by [`ChatGPT`](https://www.chat.openai.com/)**
+Code written by [`@oyoops`](https://www.twitter.com/oyoops)
 
-## Shapefile Streamer & Visualizer
+## Stream, Convert, and Visualize Shapefiles
 
 *GeoFlow* seamlessly bridges the gap between vast shapefile datasets and PostgreSQL databases, empowering users with the ability to visualize, transform, and manage geospatial data with unparalleled ease.
 
@@ -73,4 +73,4 @@ Every droplet makes an ocean. Your contributions can enhance the flow of GeoFlow
 
 ## 📄 License & Credits
 
-Sculpted with ❤️ by @oyoops. Description by ChatGPT. Licensed under [MIT License](LICENSE).
+Sculpted with ❤️ by [`@oyoops`](https://www.twitter.com/oyoops). Description by [`ChatGPT`](https://www.chat.openai.com/). Licensed under [MIT License](LICENSE).
