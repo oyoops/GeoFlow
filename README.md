@@ -2,7 +2,7 @@
 # GeoFlow
 
 *This entire description was written by ChatGPT.*
-*I don't have the time.*
+*I don't have the time. Code by @oyoops*
 
 ## Shapefile Streamer & Visualizer
 
@@ -73,4 +73,4 @@ Every droplet makes an ocean. Your contributions can enhance the flow of GeoFlow
 
 ## 📄 License & Credits
 
-Sculpted with ❤️ by [Your Name]. Licensed under [MIT License](LICENSE).
+Sculpted with ❤️ by @oyoops. Description by ChatGPT. Licensed under [MIT License](LICENSE).
